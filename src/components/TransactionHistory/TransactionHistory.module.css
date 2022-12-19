@@ -1,0 +1,14 @@
+.transaction-history {
+  width: 400px;
+  margin: 0 auto;
+}
+th {
+  background-color: #00bfd7;
+  color: #fff;
+  border: 1px solid grey;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid grey;
+}

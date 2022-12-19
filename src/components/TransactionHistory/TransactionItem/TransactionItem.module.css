@@ -1,0 +1,10 @@
+td {
+  border: 1px solid grey;
+  text-align: center;
+}
+.light {
+  background-color: #ffffff;
+}
+.dark {
+  background-color: #ebf1f4;
+}

@@ -4,7 +4,7 @@ import { FriendListItem } from './FriendListItem/FriendListItem';
 
 export const FriendList = props => {
   return (
-    <div clasName={css.container}>
+    <div className={css.container}>
       <ul className={classNames(css['friend-list'], 'list-zeroing')}>
         {props.friends.map(friend => (
           <FriendListItem key={friend.id} {...friend} />
