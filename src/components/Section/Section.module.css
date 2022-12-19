@@ -1,4 +1,14 @@
-.section.profile{
+.section{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.profile{
     background-color: #E7ECF2;
 }
+
+.section{
+    background-color: #EFF2F5;
+}
+
 
